@@ -2,7 +2,10 @@
 
 This project analyzes sales performance of 150 sales executives across Indian regions using Microsoft Excel.
 
-## 📁 Files in this Repository
+## 📁 Files in this Repository  ## Dashboard Preview  
+
+![Sales Dashboard](DASHBOARD.png)
+
 - **Sales_Report_Indian.xlsx** → Base dataset with sales data of 150 employees.
 - **README.md** → Project documentation (this file).
 
